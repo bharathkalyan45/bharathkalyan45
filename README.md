@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi 👋 I'm Bharath K
 
-<!--
-**bharathkalyan45/bharathkalyan45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer | Data Analyst
 
-Here are some ideas to get you started:
+🌱 Learning LangGraph & AI Agents
+🤖 Building RAG Applications
+📊 Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=AI%2FML+Engineer;Data+Analyst;LangChain+Developer;Building+LLM+Applications)](https://git.io/typing-svg)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
