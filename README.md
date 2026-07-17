@@ -6,7 +6,6 @@ AI/ML Engineer | Data Analyst
 🤖 Building RAG Applications
 📊 Data Science & Machine Learning
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&width=600&lines=AI%2FML+Engineer;Data+Analyst;LangChain+Developer;Building+LLM+Applications)](https://git.io/typing-svg)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
 
